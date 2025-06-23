@@ -119,8 +119,3 @@
   </a>
 </div>
 
----
-
-### 🐍 Atividade recente
-
-![Snake animation](https://github.com/gustavohpereira/gustavohpereira/blob/output/github-contribution-grid-snake.svg)
