@@ -10,7 +10,6 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Finalizei minha graduação em **junho de 2025**
 - 🌱 Foco em projetos com **tecnologias modernas**, APIs escaláveis, integração com dados e cloud
 - 👨‍💻 Interesse especial por **desenvolvimento back-end** e **produtos com impacto real**
 - 🤝 Acredito em **aprendizado contínuo, colaboração e boas práticas**
